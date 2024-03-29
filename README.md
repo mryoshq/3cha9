@@ -1,23 +1,11 @@
 ## Hi there 👋 I'm Youness
 
-### Software Engineer
+### Passionate about AI, Crypto
 
-Currently doing Masters in data engineering - NiFi, Kafka, Hadoop .. 
-
-Passionate about AI, Crypto & WebDev
+### data is 🔑
 
 * 🌍 Based in Morocco 🇲🇦
 * Student @ [Ynov](https://www.ynov.com/)
-* Portfolio is in the making but you can check my LinkedIn account [here](https://www.linkedin.com/in/dilnoon/)
-
-Tech I'm tampering with rn
-* Typescript  
-* NextJs & Astro 
-* tRPC 
-* TailwindCSS 
-* Prisma 
-* PlanetScale
-* Vercel
-
+* LinkedIn account [here](https://www.linkedin.com/in/dilnoon/)
 
 
